@@ -3,6 +3,7 @@ Ongoing breast cancer research is vital due to its global impact. AI, particular
 
 Dataset Used to train model : https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset
 
+
 Problem Satement:-
 In cities like Mumbai, Delhi, Bengaluru, Bhopal, Kolkata, Chennai, Ahmedabad, breast cancer accounts for 25% to 32% of all female cancers, more than 1/4th of all female cancers.
 Almost 50% of all cases are in the age group of 25-50. And more than 70% of the cases present in the advanced stage had poor survival and high mortality. The Indian Council for Medical Research recently published a report which stated that in 2016 the total number of new cancer cases is expected to be about 14.5 lakhs. This figure will likely increase to 17.3 lakhs in 2020.
